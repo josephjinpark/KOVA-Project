@@ -1,0 +1,36 @@
+
+VCFtools - v0.1.12b
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf Kor_All_vcall_recal.vcf
+	--max-alleles 2
+	--minDP 10
+	--minGQ 30
+	--hwe 1e-06
+	--max-missing 0.7
+	--out Kor_All_vcall_recal_filtered
+	--recode
+	--remove-filtered-all
+
+stat error: No such file or directory
+Error: Can't determine file type of Kor_All_vcall_recal.vcf
+
+VCFtools - v0.1.12b
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf ../Kor_All_vcall_recal.vcf
+	--max-alleles 2
+	--minDP 10
+	--minGQ 30
+	--hwe 1e-06
+	--max-missing 0.7
+	--out Kor_All_vcall_recal_filtered
+	--recode
+	--remove-filtered-all
+
+After filtering, kept 1020 out of 1020 Individuals
+Outputting VCF file...
+After filtering, kept 409215 out of a possible 15633828 Sites
+Run Time = 9144.00 seconds
